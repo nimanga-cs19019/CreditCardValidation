@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CCValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|c:\\users\\user\\source\\repos\\ccvalidation\\ccvalidation\\models\\entity\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|solutionrelative:ccvalidation\\models\\entity\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|c:\\users\\user\\source\\repos\\ccvalidation\\ccvalidation\\controllers\\valicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|solutionrelative:ccvalidation\\controllers\\valicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|c:\\users\\user\\source\\repos\\ccvalidation\\ccvalidation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|solutionrelative:ccvalidation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|c:\\users\\user\\source\\repos\\ccvalidation\\ccvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|solutionrelative:ccvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|c:\\users\\user\\source\\repos\\ccvalidation\\ccvalidation\\data\\carddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|solutionrelative:ccvalidation\\data\\carddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|c:\\users\\user\\source\\repos\\ccvalidation\\ccvalidation\\ccvalidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|solutionrelative:ccvalidation\\ccvalidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|c:\\users\\user\\source\\repos\\ccvalidation\\ccvalidation\\migrations\\20240707164817_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B520DA-14CA-419F-8FF5-A0FAE910A6A8}|CCValidation\\CCValidation.csproj|solutionrelative:ccvalidation\\migrations\\20240707164817_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\appsettings.json",
+              "RelativeDocumentMoniker": "CCValidation\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\appsettings.json",
+              "RelativeToolTip": "CCValidation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T16:23:27.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Data\\CardDBContext.cs",
+              "RelativeDocumentMoniker": "CCValidation\\Data\\CardDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Data\\CardDBContext.cs",
+              "RelativeToolTip": "CCValidation\\Data\\CardDBContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:16:44.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Models\\Entity\\Card.cs",
+              "RelativeDocumentMoniker": "CCValidation\\Models\\Entity\\Card.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Models\\Entity\\Card.cs",
+              "RelativeToolTip": "CCValidation\\Models\\Entity\\Card.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:59:58.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValicationController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Controllers\\ValicationController.cs",
+              "RelativeDocumentMoniker": "CCValidation\\Controllers\\ValicationController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Controllers\\ValicationController.cs",
+              "RelativeToolTip": "CCValidation\\Controllers\\ValicationController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:55:39.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240707164817_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Migrations\\20240707164817_Initial Migration.cs",
+              "RelativeDocumentMoniker": "CCValidation\\Migrations\\20240707164817_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Migrations\\20240707164817_Initial Migration.cs",
+              "RelativeToolTip": "CCValidation\\Migrations\\20240707164817_Initial Migration.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:48:17.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CCValidation.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\CCValidation.csproj",
+              "RelativeDocumentMoniker": "CCValidation\\CCValidation.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\CCValidation.csproj",
+              "RelativeToolTip": "CCValidation\\CCValidation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T15:56:27.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Program.cs",
+              "RelativeDocumentMoniker": "CCValidation\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CCValidation\\CCValidation\\Program.cs",
+              "RelativeToolTip": "CCValidation\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:29:24.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
