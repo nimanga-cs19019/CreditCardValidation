@@ -1,0 +1,24 @@
+body {
+    background-color:black;
+    }
+.row 
+{
+    width: 100%;
+    max-width: 420px;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 1rem;
+    background-color:gold;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    align-items: center;
+    border-radius: 10%;
+    transition: width 2s;   
+}
+.form-label
+{
+    font-weight: bold;
+}

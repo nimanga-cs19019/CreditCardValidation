@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Notes.API",
+    "\\Notes.API\\Controllers",
+    "\\Notes.API\\Data",
+    "\\Notes.API\\Repository"
+  ],
+  "SelectedNode": "\\Notes.API\\Controllers\\NotesController.cs",
+  "PreviewInSolutionExplorer": false
+}
